@@ -1,0 +1,7 @@
+This is a sample file
+<<<<<<< HEAD
+This is a additional "feature" added !!
+=======
+This is a old "feature" added !!
+>>>>>>> feature
+

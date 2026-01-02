@@ -1,2 +1,4 @@
 This is a sample text file to demontstrate rebase.
-Rebase is used to resolve merge conflicts !! 
+Rebase is used to resolve merge conflicts !!
+
+He is Jeeva.  

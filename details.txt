@@ -1,4 +1,6 @@
 This is a sample text file to demontstrate rebase.
 Rebase is used to resolve merge conflicts !!
 
-He is Jeeva.  
+He is Jeeva.
+
+He is a member of 11 gang.  
